@@ -1,7 +1,7 @@
 <?php
  echo "hello world"
   $mycounter = 1;  
-  $mystring  = "Hello";  
+  $mystring  = "Helllo";  
   $myarray   = array("One", "Two", "Three"); 
   $username= "fred";
   echo $username
